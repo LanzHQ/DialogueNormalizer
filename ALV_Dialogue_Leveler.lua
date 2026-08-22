@@ -1,3 +1,7 @@
+-- @description Dialogue Normalizer - phrase-by-phrase dialogue leveling (EBU R128)
+-- @version 1.0
+-- @author Ilya Lavrin
+--
 -- ALV Dialogue Normalizer   -   -23 LUFS, phrase by phrase, no settings
 --
 -- NORMALIZE: finds every spoken phrase, measures it on its own (K-weighted,
