@@ -1,0 +1,7 @@
+*.bak
+*.bak_*
+*.rpp-bak
+peaks/
+reaper-*.ini
+Thumbs.db
+desktop.ini
